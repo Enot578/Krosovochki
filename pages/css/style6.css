@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div {
+    background-color: #9494dd;
+    text-align: center;
+    margin-top: 50px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+
+}
+
+p {
+    font-size: 24px;
+    font-family: "Dosis", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    padding: 15px;
+ }
+
+header {
+    height: 100px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+ }
+
+ a {
+    text-decoration: none;
+    color: black;
+ }
